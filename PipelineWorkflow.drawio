@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-03T11:23:14.511Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="7uI29nTOGvrO_owlPJx4" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-03T11:23:50.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ggq0n-p3OX1oC3vtmlyV" version="24.0.7" type="github">
   <diagram name="Page-1" id="74b105a0-9070-1c63-61bc-23e55f88626e">
     <mxGraphModel dx="1050" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -10,10 +10,10 @@
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-1" value="Datasets Used&lt;div&gt;&lt;br&gt;Nasa Promise Repository&lt;div&gt;Nasa MDP Repository&amp;nbsp;&lt;/div&gt;&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#f8cecc;strokeColor=#b85450;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="150" y="410" width="170" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="-eTZZblMJ3lCmIqNIsWR-2" value="Instances&lt;div&gt;(Clean)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="-eTZZblMJ3lCmIqNIsWR-2" value="Instances&lt;div&gt;(Clean)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="370" y="440" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-eTZZblMJ3lCmIqNIsWR-3" value="Instances&lt;div&gt;(Defective)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" vertex="1" parent="1">
+        <mxCell id="-eTZZblMJ3lCmIqNIsWR-3" value="Instances&lt;div&gt;(Defective)&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="370" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-4" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -22,7 +22,7 @@
             <mxPoint x="367" y="509.56000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-eTZZblMJ3lCmIqNIsWR-6" value="Feature&lt;div&gt;Extraction&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-eTZZblMJ3lCmIqNIsWR-6" value="Feature&lt;div&gt;Extraction&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="532" y="460" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-7" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -37,7 +37,7 @@
             <mxPoint x="680" y="509.18000000000006" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-eTZZblMJ3lCmIqNIsWR-10" value="Training&lt;div&gt;Instances&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="-eTZZblMJ3lCmIqNIsWR-10" value="Training&lt;div&gt;Instances&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="690" y="440" width="90" height="140" as="geometry" />
         </mxCell>
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-12" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -54,19 +54,19 @@
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-28" value="Machine Learning" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-15">
           <mxGeometry x="58" y="30" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="-eTZZblMJ3lCmIqNIsWR-29" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. NB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Decision Tree&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. RF&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. SVM&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. K*&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;6.SMO&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-28">
+        <mxCell id="-eTZZblMJ3lCmIqNIsWR-29" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. NB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Decision Tree&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. RF&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. SVM&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;5. K*&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;6.SMO&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-28">
           <mxGeometry y="30" width="110" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-19" value="Transformers" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-15">
           <mxGeometry x="18" y="180" width="130" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="-eTZZblMJ3lCmIqNIsWR-23" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Tabnet&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. TabPFN&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. FT Transformer&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-19">
+        <mxCell id="-eTZZblMJ3lCmIqNIsWR-23" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. Tabnet&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. TabPFN&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. FT Transformer&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-19">
           <mxGeometry x="-13" y="30" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-26" value="Deep Learning" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-15">
           <mxGeometry x="158" y="175" width="130" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="-eTZZblMJ3lCmIqNIsWR-27" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. LSTM&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. DBN&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. DNN&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. DNN and LSTM&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-26">
+        <mxCell id="-eTZZblMJ3lCmIqNIsWR-27" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1. LSTM&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. DBN&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;3. DNN&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;4. DNN and LSTM&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="-eTZZblMJ3lCmIqNIsWR-26">
           <mxGeometry x="-10" y="25" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-30" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -75,7 +75,7 @@
             <mxPoint x="540" y="779.33" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-eTZZblMJ3lCmIqNIsWR-31" value="Running Tests:&lt;div&gt;1. Wilcoxon Signed Rank&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Scott Knott ESD&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="-eTZZblMJ3lCmIqNIsWR-31" value="Running Tests:&lt;div&gt;1. Wilcoxon Signed Rank&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;2. Scott Knott ESD&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="352" y="685" width="180" height="190" as="geometry" />
         </mxCell>
         <mxCell id="-eTZZblMJ3lCmIqNIsWR-32" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
